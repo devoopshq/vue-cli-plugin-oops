@@ -1,10 +1,10 @@
-# @devoops/vue-cli-plugin-oops [under develpoment]
+# @devoopshq/vue-cli-plugin-oops [under development]
 
 > A Vue.js plugin.
 
 ### Usage
 
 ```javascript
-$ npm i @devoops/vue-cli-plugin-oops
-$ 
+# installs and invokes vue-cli-plugin-oops
+$ vue add @devoopshq/vue-cli-plugin-oops
 ```
