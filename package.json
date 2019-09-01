@@ -1,6 +1,6 @@
 {
   "name": "@devoopshq/vue-cli-plugin-oops",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha",
   "description": "A vue-cli plugin to ...",
   "main": "index.js",
   "scripts": {
