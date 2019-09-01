@@ -4,7 +4,7 @@ import oops from 'vue-cli-plugin-oops'
 
 Vue.use(oops, {
   release: '${opts.addRelease}',
-  token: '${opts.token || 123456}'
+  token: '${opts.token}'
 })`
 
   api.onCreateComplete(() => {
