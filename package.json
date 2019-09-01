@@ -8,13 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devoopshq/vue.git"
+    "url": "git+https://github.com/devoopshq/vue-cli-plugin-oops.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "vue",
+    "cli",
+    "plugin"
+  ],
+  "author": "DevOops <team@devoops.app> (https://devoops.app)",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devoopshq/vue/issues"
+    "url": "https://github.com/devoopshq/vue-cli-plugin-oops/issues"
   },
-  "homepage": "https://github.com/devoopshq/vue#readme"
+  "homepage": "https://github.com/devoopshq/vue-cli-plugin-oops#readme"
 }
